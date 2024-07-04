@@ -42,4 +42,3 @@ This repository provides a solution for object or helmet or brain tumor detectio
 For any questions or issues, please open an issue in the repository or contact me at noravnhuynh@gmail.com.
 
 Feel free to customize the project names, descriptions, and any other details specific to your projects. Let me know if there’s anything else you need!
-=======
